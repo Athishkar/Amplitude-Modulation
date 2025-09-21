@@ -76,21 +76,25 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 
+<img width="1920" height="1200" alt="Screenshot 2025-09-21 133213" src="https://github.com/user-attachments/assets/caaf5d23-220c-4ab1-9641-4938fd2275b9" />
+
 
 
 Output Waveform
 
+<img width="1920" height="998" alt="Screenshot 2025-09-21 132926" src="https://github.com/user-attachments/assets/dba4248a-3978-48f4-94fd-b2f29433a760" />
 
 
 
 
 TABULATION:
 
+![WhatsApp Image 2025-09-21 at 13 36 18_580211f9](https://github.com/user-attachments/assets/5d8f5917-4e04-4f97-8944-0375ca65c039)
 
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac = 0.5
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.483
 
 
 MODEL GRAPH
